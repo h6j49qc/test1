@@ -1,6 +1,6 @@
 # Project Name
 
-TODO: Write a project description
+TODO: Write a project description ---
 
 ## Installation
 
